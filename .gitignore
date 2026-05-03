@@ -1,0 +1,20 @@
+# Trained model files — too large for GitHub
+models/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Environment variables — never upload these
+.env
+
+# Virtual environment
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
